@@ -1,0 +1,13 @@
+div{
+    background-color: bisque;
+    padding: 80px 20px blue;
+}
+h2{
+    color: brown;
+    font-style: italic;
+}
+p{
+    color: cadetblue;
+    font-style: oblique;
+    font-size: medium;
+}
